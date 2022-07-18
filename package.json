@@ -1,0 +1,14 @@
+{
+  "name": "p2-tiling-in-p5",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ben-c-bestow/p2-tiling-in-p5.git",
+  "author": "ben-c-bestow <bchatterton@bestow.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/p5": "^1.4.2",
+    "lodash": "^4.17.21",
+    "p5": "^1.4.1",
+    "standard": "^17.0.0"
+  }
+}
